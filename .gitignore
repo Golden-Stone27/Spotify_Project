@@ -1,0 +1,8 @@
+.sb/
+.worktrees/
+.claude/worktrees/
+.claude/settings.local.json
+Workflow/Transcripts/
+.venv/
+__pycache__/
+.pytest_cache/
